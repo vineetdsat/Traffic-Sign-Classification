@@ -11,5 +11,14 @@ The Accuracy of the Code is 94%.
 
 <p align="center"> This image is the output of the addition of dfferent layers in the CNN model </p>
   
+<p align="center">
+  <img width="250" height="250" src="traning_validation_accuracy.png">  <img width="250" height="250" src="traning_validation_loss.png">
+</p>
 
+<p align="center"> These Graph Compare the Result of the Trained model with the result of the Validation data ran on the same model, The 2 Graphs are for the Comparision of Loss and Accuracy </p>
+
+# Result
+<p align="center">
+  <img width="700" height="600" src="result.png">
+</p>
 
