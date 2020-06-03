@@ -5,5 +5,11 @@ The Accuracy of the Code is 94%.
 
 # Screenshots
 
+<p align="center">
+  <img width="400" height="400" src="CNN_layers.png">
+</p>
 
-# Graph Comparision
+<p align="center"> This image is the output of the addition of dfferent layers in the CNN model </p>
+  
+
+
